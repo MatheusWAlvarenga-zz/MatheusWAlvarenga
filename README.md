@@ -10,7 +10,7 @@
 ### About me
 I'm a frontend and mobile developer. 
 
-#### Courses 👨🏼‍🏫 
+#### Education 🖊
 - [Unitri](https://unitri.edu.br/) - Computer Science.
 - [Rocketseat](https://rocketseat.com.br/) - Javascript ES6+ / NodeJS / ReactJS / React Native
 - [Cod3r](https://www.cod3r.com.br/) - Modern Web with JavaScript.
