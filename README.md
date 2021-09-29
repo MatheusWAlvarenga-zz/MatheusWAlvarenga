@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-matheuswalvarenga@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswalvarenga@gmail.com)](mailto:matheuswalvarenga@gmail.com)
 
 ### About me
-I'm a frontend and mobile developer. 
+I'm a backend, frontend and mobile developer. 
 
 #### Education 🖊
 - [Unitri](https://unitri.edu.br/) - Computer Science.
