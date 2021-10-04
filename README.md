@@ -3,12 +3,12 @@
 
 # Matheus William
 
-[![Linkedin Badge](https://img.shields.io/badge/-matheuswalvarenga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/matheuswalvarenga)](https://www.linkedin.com/matheuswalvarenga)
-[![Twitter Badge](https://img.shields.io/badge/-Matheus32217992-black?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/Matheus32217992)](https://twitter.com/Matheus32217992)
-[![Gmail Badge](https://img.shields.io/badge/-matheuswalvarenga@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswalvarenga@gmail.com)](mailto:matheuswalvarenga@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/matheuswalvarenga)](https://www.linkedin.com/matheuswalvarenga)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/Matheus32217992)](https://twitter.com/Matheus32217992)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswalvarenga@gmail.com)](mailto:matheuswalvarenga@gmail.com)
 
 ### About me
-I'm a backend, frontend and mobile developer. 
+Backend, frontend and mobile developer. 
 
 #### Education 🖊
 - [Unitri](https://unitri.edu.br/) - Computer Science.
